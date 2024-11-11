@@ -1,0 +1,47 @@
+1. Encabezado Fijo (Header)
+
+Incluye el logo del restaurante a la izquierda y el nombre del restaurante en una sección central.
+Un menú de navegación con enlaces a las secciones principales (Inicio, El Restaurante, Menú/Carta, Nuestra Cocina, Reservas, Contacto).
+Botón de Reserva Rápida para acceder directamente a la página de reservas, ubicado junto al menú para destacarse.
+
+
+2. Sección Hero o Imagen de Encabezado
+
+Imagen de fondo o video en bucle que muestre el restaurante o un plato destacado.
+Un título y subtítulo breves que capturen la esencia del restaurante, con botones de acción como “Ver Menú” y “Hacer Reserva” para guiar al usuario.
+
+
+3. Sección "Sobre Nosotros"
+
+Breve texto introductorio con la historia y la esencia del restaurante.
+Una imagen representativa del interior del restaurante o del equipo de cocina.
+Enlace o botón a “Descubre Más” para llevar al usuario a la sección de “El Restaurante” y ampliar información.
+
+
+4. Sección "Nuestra cocina"
+
+Un subtítulo que introduzca los platos destacados.
+Galería de imágenes con los platos más populares del menú, especialmente los arroces.
+Breve descripción de la calidad e ingredientes frescos del restaurante y botón para ver el menú completo.
+
+
+5.Sección de Reseñas Destacadas
+
+Título como “Lo Que Dicen Nuestros Clientes”.
+Una selección de testimonios de clientes o citas de reseñas que hablen sobre la experiencia gastronómica.
+Elementos visuales como iconos o estrellas para reflejar las valoraciones.
+
+
+6. Sección "Galería del Entorno"
+
+Título de la sección para resaltar el entorno privilegiado.
+Galería de imágenes que muestren el restaurante y sus vistas al Mediterráneo.
+Texto breve invitando a vivir la experiencia en un entorno natural.
+
+
+8. Pie de Página (Footer)
+
+Información de contacto con dirección, teléfono, correo y horario de apertura.
+Mapa integrado de Google (opcional) para facilitar la ubicación.
+Redes Sociales: Iconos de Instagram, Facebook, etc., para conectar con el restaurante.
+Enlaces a páginas secundarias: Aviso Legal, Política de Privacidad, entre otros.
