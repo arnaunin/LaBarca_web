@@ -84,22 +84,22 @@
       <form action="post">
         <p>
           <label for="name"></label>
-          <input type="text" name="name" id="name" placeholder="Nombre">
+          <input type="text" name="name" id="name" placeholder="Nombre" required>
         </p>
         <p>
           <label for="phone"></label>
-          <input type="number" name="phone" id="phone" placeholder="Teléfono">
+          <input type="text" name="phone" id="phone" placeholder="Teléfono" required pattern="[0-9]+">
         </p>
         <p>
             <label for="email"></label>
-            <input type="email" name="email" id="email" placeholder="Correo electrónico">
+            <input type="email" name="email" id="email" placeholder="Correo electrónico" required>
         </p>
         <p>
           <label for="day"></label>
-          <input type="date" name="day" id="day">
+          <input type="date" name="day" id="day" required>
         </p>
         <p>
-          <select name="hora" id="hora">
+          <select name="hora" id="hora" required>
             <option value="13:30 pm">13:30 pm</option>
             <option value="13:45 pm">13:45 pm</option>
             <option value="13:45 pm">13:45 pm</option>
@@ -114,7 +114,7 @@
           </select>
         </p>
         <p>
-          <select name="personas" id="personas">
+          <select name="personas" id="personas" required>
             <option value="1 Persona">1 Persona</option>
             <option value="2 Personas">2 Personas</option>
             <option value="3 Personas">3 Personas</option>
